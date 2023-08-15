@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Taviraj } from "next/font/google";
 import classnames from "~/utils/classnames";
 
